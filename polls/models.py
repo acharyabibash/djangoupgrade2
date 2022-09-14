@@ -13,4 +13,4 @@ class Choice(models.Model):
     votes = models.IntegerField(default=0)
 
 class Book(models.Model):
-    valuable = models.NullBooleanField("Valuable")
+    valuable = models.BooleanField("Valuable", null=True)
