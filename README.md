@@ -13,7 +13,7 @@ create the virtual environment with name hawa<br/>
 
 
 
-activate virtual environment with hawa/Scripts/Activat<br/>
+activate virtual environment with hawa/Scripts/Activate<br/>
 
 install an old version of django like 2.2 LTS(at least otherwise the project may not work)<br/>
 
